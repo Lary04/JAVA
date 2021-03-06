@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/gestionetudiant/FXMLDocument.fxml</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/gestionetudiant/v_connexion.fxml</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/dao/UserDao.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/models/Etudiant.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/models/RP.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/dao/ClasseDao.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/models/AC.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/models/Affectation.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/dao/AffectationDao.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/gestionetudiant/GestionEtudiant.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/dao/InscriptionDao.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/gestionetudiant/C_ConnexionController.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/cours/Main.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/services/GestionEtudiantImpl.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/dao/IDao.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/gestionetudiant/FXMLDocumentController.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/models/Professeur.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/models/Inscription.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/models/User.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/models/Classe.java</file>
+            <file>file:/C:/Users/Hilary%20DJENGUE/Documents/NetBeansProjects/GestionEtudiant/src/services/IGestionEtudiant.java</file>
+        </group>
+    </open-files>
+</project-private>
